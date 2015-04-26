@@ -1,0 +1,22 @@
+3
+9981
+SavingAccount
+Gozar-Manu Ariana
+2920802125770
+Observator 1 Cluj Napoca
+3255.0
+-------------------------------------
+9982
+SpendingAccount
+Gozar-Manu Ariana
+2920802125770
+Observator 1 Cluj Napoca
+900.0
+-------------------------------------
+9983
+SpendingAccount
+Chiso Bogdan
+1920506444560
+Baritiu 15 Cluj Napoca
+700.0
+-------------------------------------
